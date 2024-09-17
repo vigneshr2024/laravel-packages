@@ -1,0 +1,15 @@
+{
+    "name": "laravel/user",
+    "autoload": {
+        "psr-4": {
+            "Laravel\\User\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "vignesh",
+            "email": "singavicky2001@gmail.com"
+        }
+    ],
+    "require": {}
+}

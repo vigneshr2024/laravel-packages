@@ -1,0 +1,4 @@
+[25-Feb-2023 18:31:11 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Database\Migrations\Migration" not found in /home/mahalot/public_html/packages/Sensiple/permissions/src/database/migrations/2023_02_20_185546_seed_permission_tables.php:12
+Stack trace:
+#0 {main}
+  thrown in /home/mahalot/public_html/packages/Sensiple/permissions/src/database/migrations/2023_02_20_185546_seed_permission_tables.php on line 12

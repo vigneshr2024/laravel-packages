@@ -1,0 +1,16 @@
+{
+    "name": "laravel/permission",
+    "license": "MIT",
+    "autoload": {
+        "psr-4": {
+            "Laravel\\Permissions\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "vignesh",
+            "email": "singavicky2001@gmail.com"
+        }
+    ],
+    "require": {}
+}

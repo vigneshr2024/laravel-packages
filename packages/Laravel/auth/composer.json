@@ -1,0 +1,15 @@
+{
+    "name": "laravel/auth",
+    "autoload": {
+        "psr-4": {
+            "Laravel\\Auth\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "vignesh r",
+            "email": "singavicky2001@gmail.com"
+        }
+    ],
+    "require": {}
+}
